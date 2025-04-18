@@ -20,10 +20,10 @@ Este proyecto aplica técnicas de reducción de dimensiones y clustering para se
 ### 📷 Visualizaciones
 
 #### 📌 Gráfico de dispersión con K-Means
-![Dispersión K-Means](imágenes/IMG2(2).png)
+![Dispersión K-Means](imagenes/IMG2(2).png)
 
 #### 📌 Dendrograma del Clustering Jerárquico
-![Dendrograma](imágenes/IMG2(1).png)
+![Dendrograma](imagenes/IMG2(1).png)
 
 5. **Análisis de clusters:** se interpretaron estadísticamente.
 6. **Estrategias de marketing:** se desarrollaron propuestas específicas para cada grupo.
